@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<content>
+    <info>
+        <title>Greetings in Spanish</title>
+        <author>Señora Johansen</author>
+        <date>3/2/16</date>
+        <time>04:49 PM</time>
+    </info>
+    <quest style="0">
+        <quiz>cariño</quiz>
+        <quiz>¿qué tal?</quiz>
+        <quiz>chévere</quiz>
+        <quiz>regular</quiz>
+        <quiz>terrible</quiz>
+        <quiz>alumnos</quiz>
+        <quiz>más o menos</quiz>
+        <quiz>mal</quiz>
+        <quiz>bien</quiz>
+        <quiz>¿y tú?</quiz>
+        <quiz>señor</quiz>
+        <quiz>nos vemos</quiz>
+    </quest>
+    <answer style="0">
+        <ans>dear</ans>
+        <ans>how are things?</ans>
+        <ans>great</ans>
+        <ans>okay</ans>
+        <ans>awful</ans>
+        <ans>pupils</ans>
+        <ans>so-so</ans>
+        <ans>bad</ans>
+        <ans>well</ans>
+        <ans>and you?</ans>
+        <ans>sir</ans>
+        <ans>see you</ans>
+    </answer>
+    <config>
+        <audio_tick>data/media/correct1.mp3</audio_tick>
+        <audio_cross>data/media/wrong1.mp3</audio_cross>
+        <audio_click>data/media/click1.mp3</audio_click>
+        <theme>1</theme>
+        <end_phrase>Well Done! ¡Bien Hecho!</end_phrase>
+           <fontsize>16</fontsize>
+    </config>
+</content>

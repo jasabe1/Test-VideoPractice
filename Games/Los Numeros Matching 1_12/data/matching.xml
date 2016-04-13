@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<content>
+    <info>
+        <title>Los Numeros</title>
+        <author>Jenny Johansen</author>
+        <date>10/28/2016</date>
+        <time>15:01</time>
+    </info>
+    <quest>
+    <set>
+        <quiz>nueve</quiz>
+        <quiz>siete</quiz>
+        <quiz>diez</quiz>
+        <quiz>tres</quiz>
+        <quiz>cinco</quiz>
+        <quiz>uno</quiz>
+    </set>
+    <set>
+        <quiz>dos</quiz>
+        <quiz>ocho</quiz>
+        <quiz>cuatro</quiz>
+        <quiz>seis</quiz>
+        <quiz>once</quiz>
+        <quiz>doce</quiz>
+    </set>
+    </quest>
+    <answer>
+    <set>
+        <quiz>nine</quiz>
+        <quiz>seven</quiz>
+        <quiz>ten</quiz>
+        <quiz>three</quiz>
+        <quiz>five</quiz>
+        <quiz>one</quiz>
+    </set>
+    <set>
+        <quiz>two</quiz>
+        <quiz>eight</quiz>
+        <quiz>four</quiz>
+        <quiz>six</quiz>
+        <quiz>eleven</quiz>
+        <quiz>twelve</quiz>
+    </set>
+    </answer>
+    <config>
+        <gameType>0</gameType>
+        <end_phrase>Well Done!</end_phrase>
+        <instruction>Match the SPANISH to the ENGLISH</instruction>
+         <fontsize>24</fontsize>
+    </config>
+</content>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<content>
+    <info>
+        <title>Capitals </title>
+        <author>Jenny Johansen</author>
+        <date>10/43/2016</date>
+        <time>15:01</time>
+    </info>
+    <quest>
+        <quiz>La**es*la**de**.*</quiz>
+        <quiz>Managua***capital**Nicaragua*.*</quiz>
+        <quiz>**la*capital**Bolivia*.*</quiz>
+        <quiz>Managua******.*</quiz>
+        <quiz>**la***Paraguay*.*</quiz>
+        <quiz>**la**del**.*</quiz>
+    </quest>
+       <media>
+        <quizmedia mediaType="0"></quizmedia>
+        <quizmedia mediaType="0"></quizmedia>
+        <quizmedia mediaType="0"></quizmedia>
+        <quizmedia mediaType="0"></quizmedia>
+        <quizmedia mediaType="0"></quizmedia>
+        <quizmedia mediaType="0"></quizmedia>
+       </media>
+    <answer>
+        <ans>Habana*capital*Cuba</ans>
+        <ans>es*la*de</ans>
+        <ans> La Paz*es*de</ans>
+        <ans>es*la*capital*de*Nicaragua</ans>
+        <ans>Asunción*es*capital*de</ans>
+        <ans>Lima*es*capital*Perú</ans>
+    </answer>
+    <options>
+        <opt>Habana*capital*Cuba*Havana*Cube</opt>
+        <opt>es*la*de*no*si</opt>
+        <opt> La Paz*es*de*son*el</opt>
+        <opt>es*la*capital*de*Nicaragua</opt>
+        <opt>Asunción*es*capital*de*son*la</opt>
+        <opt>Lima*es*capital*Perú</opt>
+    </options>
+    <config>
+        <gameType>1</gameType>
+        <end_phrase>¡Muy bien!</end_phrase>
+        <audio_tick>data/media/correct1.mp3</audio_tick>
+        <audio_cross>data/media/wrong1.mp3</audio_cross>
+        <instruction>nil</instruction>
+    </config>
+</content>
