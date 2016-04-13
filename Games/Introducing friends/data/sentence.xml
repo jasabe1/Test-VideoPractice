@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<content>
+    <info>
+        <title>Introducing friends</title>
+        <author>Jenny Johansen</author>
+        <date>17/21/2016</date>
+        <time>11:03</time>
+    </info>
+    <quest>
+        <quiz>*,**es***Miguel*.*</quiz>
+        <quiz>*Miguel*.*</quiz>
+        <quiz>*Marta*.**.*</quiz>
+        <quiz>**Carlota**Oscar*.*</quiz>
+        <quiz>*.**.*</quiz>
+        <quiz>**mis**Estela*y*Ana*.*</quiz>
+    </quest>
+       <media>
+        <quizmedia mediaType="3">Paco, this is my friend Miguel.</quizmedia>
+        <quizmedia mediaType="3">Welcome Miguel.</quizmedia>
+        <quizmedia mediaType="3">Welcome Marta. Nice to meet you. (Carlos speaking)</quizmedia>
+        <quizmedia mediaType="3">This is Carlota and Oscar.</quizmedia>
+        <quizmedia mediaType="3">Welcome (Carla&amp;Carlos). I (Aleta) am pleased to meet you.</quizmedia>
+        <quizmedia mediaType="3">These are my friends Estela and Ana.</quizmedia>
+       </media>
+    <answer>
+        <ans>Paco*éste*mi*amigo</ans>
+        <ans>Bienvenido</ans>
+        <ans>Bienvenida*Encantado</ans>
+        <ans>Éstos*son*y</ans>
+        <ans>Bienvenidos*Encantada</ans>
+        <ans>Éstas*son*amigas</ans>
+    </answer>
+    <options>
+        <opt>Paco*éste*mi*amigo*ésta*amiga*my*me</opt>
+        <opt>Bienvenido*Bienvenida*Encantado*Encantada</opt>
+        <opt>Bienvenida*Encantado*Bienvenido*Encantada*Ésta*Éste</opt>
+        <opt>Éstos*son*y*i*Éstas*es*Éste</opt>
+        <opt>Bienvenidos*Encantada*Bienvenida*Bienvenidas*Encantado*Encantados</opt>
+        <opt>Éstas*son*amigas*Ésta*es*amiga*amigos*Éste</opt>
+    </options>
+    <config>
+        <gameType>1</gameType>
+        <end_phrase>Well done!  bien hecho</end_phrase>
+        <audio_tick>data/media/correct1.mp3</audio_tick>
+        <audio_cross>data/media/wrong1.mp3</audio_cross>
+        <instruction>nil</instruction>
+    </config>
+</content>

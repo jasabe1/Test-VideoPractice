@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<content>
+    <info>
+        <title>Los Numeros </title>
+        <author>Jenny Johansen</author>
+        <date>1/10/16</date>
+        <time>04:23 PM</time>
+    </info>
+    <quest style="1">
+        <quiz>data/media/12.png</quiz>
+        <quiz>data/media/20.jpg</quiz>
+        <quiz>data/media/16.png</quiz>
+        <quiz>data/media/15.png</quiz>
+        <quiz>data/media/18.png</quiz>
+        <quiz>data/media/13.png</quiz>
+        <quiz>data/media/14.jpg</quiz>
+        <quiz>data/media/17.png</quiz>
+        <quiz>data/media/15_b.png</quiz>
+        <quiz>data/media/orange-project11_400x400.jpg</quiz>
+        <quiz>data/media/13b.jpg</quiz>
+        <quiz>data/media/19.jpg</quiz>
+    </quest>
+    <answer style="0">
+        <ans>doce</ans>
+        <ans>veinte</ans>
+        <ans>dieciséis</ans>
+        <ans>quince</ans>
+        <ans>dieciocho</ans>
+        <ans>trece</ans>
+        <ans>catorce</ans>
+        <ans>diecisiete</ans>
+        <ans>quince</ans>
+        <ans>once</ans>
+        <ans>trece</ans>
+        <ans>diecinueve</ans>
+    </answer>
+    <config>
+        <audio_tick>data/media/correct3.mp3</audio_tick>
+        <audio_cross>data/media/wrong1.mp3</audio_cross>
+        <audio_click>data/media/click1.mp3</audio_click>
+        <theme>1</theme>
+        <end_phrase>¡Muy bien!</end_phrase>
+           <fontsize>12</fontsize>
+    </config>
+</content>
